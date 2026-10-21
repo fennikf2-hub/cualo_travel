@@ -1,0 +1,27 @@
+.hero-section {
+    background: url("images/cualo.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 80vh;
+}
+
+.card-img-custom {
+    height: 200px;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.text-star {
+    color: rgb(12, 176, 126);
+}
+
+ul.list-unstyled a {
+    color: inherit;
+    text-decoration: none;
+}
+
+ul.list-unstyled a:hover {
+    text-decoration: underline;
+}
